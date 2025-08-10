@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 I contributed as both a **Moderator** and a **Trainer** in the Software Quality Assurance & Project Management BootCamp.  
 My responsibilities included:
 - Coordinating sessions and managing participant engagement.

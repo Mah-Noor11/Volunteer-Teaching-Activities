@@ -1,7 +1,7 @@
 # 8PM PKT Software Quality Assurance & Project Management BootCamp
 
 **Role:** Moderator & Trainer  
-**Organized by:** [[icodeguru](https://icode.guru/)] 
+**Organized by:** [icodeguru(https://icode.guru/)]
 
 ---
 
@@ -15,7 +15,7 @@ My responsibilities included:
 ---
 
 ## 📂 Resources
-- [Resources]([https://docs.google.com/spreadsheets/d/1t5sld3cnvPUBL__O4ee4ijUojrcRJIS0TN_3wNfzgh4/edit?gid=0](https://docs.google.com/spreadsheets/d/1t5sld3cnvPUBL__O4ee4ijUojrcRJIS0TN_3wNfzgh4/edit?pli=1&gid=0#gid=0))
+- [[Resources](https://docs.google.com/spreadsheets/d/1t5sld3cnvPUBL__O4ee4ijUojrcRJIS0TN_3wNfzgh4/edit?pli=1&gid=0#gid=0)]
 
 ---
 
